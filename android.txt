@@ -1,0 +1,4 @@
+title=Draw on Screen
+author=Elephant Ninja
+api=1
+orientation=portrait
